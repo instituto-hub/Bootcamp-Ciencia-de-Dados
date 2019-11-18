@@ -1,4 +1,4 @@
-# Bootcamp Indústria Têxtil
+# Bootcamp Ciência de Dados
 
 Esse é o repositório dos projetos desenvolvidos durante o Bootcamp. Ocorreu entre 25/11 a 29/11/2019.
 
