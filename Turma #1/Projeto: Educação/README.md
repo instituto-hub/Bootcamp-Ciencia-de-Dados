@@ -5,8 +5,8 @@
 
 # Integrantes
 
-[Tatiana Mendonça]()
+[Tatiana Mendonça](https://github.com/tatianamssilva)
 
-[Ícaro	Damaceno]()
+[Ícaro	Damaceno](https://github.com/idamaceno)
 
-[Kauê Maia]()
+[Kauê Maia](https://github.com/KaueMaia)
