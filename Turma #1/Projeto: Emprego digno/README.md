@@ -5,9 +5,9 @@
 
 # Integrantes
 
-[Maria Ubaldo]()
+[Maria Ubaldo](https://github.com/MariaUbaldo)
 
-[Leonnardo Pereira]()
+[Leonnardo Pereira](https://github.com/leonnardoo)
 
-[Levi Cirqueira]()
+[Levi Cirqueira](https://github.com/lcirqueirajr)
 
