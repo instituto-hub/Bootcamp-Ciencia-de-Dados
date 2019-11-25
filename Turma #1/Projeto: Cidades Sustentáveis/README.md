@@ -5,8 +5,8 @@
 
 # Integrantes
 
-[Anais Costa]()
+[Anais Costa](https://github.com/AnaisKur)
 
-[Isis Luiza]()
+[Isis Luiza](https://github.com/Isludel)
 
-[Marco Alencastro]()
+[Marco Alencastro](https://github.com/Marco87)
