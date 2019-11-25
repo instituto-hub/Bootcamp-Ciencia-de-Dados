@@ -5,8 +5,6 @@
 
 # Integrantes
 
-[Luana	 Calzavara]()
+[Luana Calzavara](https://github.com/LuaCalzavara)
 
-[Ícaro	Damaceno]()
-
-[Nikiforos Philyppis]()
+[Nikiforos Philyppis](https://github.com/NikiforosPhilyppis)
