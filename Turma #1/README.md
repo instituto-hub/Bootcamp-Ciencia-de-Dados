@@ -10,7 +10,7 @@ Gostaria de realizar, financiar ou saber mais sobre o Bootcamp Ciência de Dados
 
 ### Facilitador(a)
 
-Thaís Viana
+[Thaís Viana](https://github.com/thaisviana)
 
 
 ### Registro
