@@ -7,6 +7,8 @@ Gostaria de realizar, financiar ou saber mais sobre o Bootcamp Ciência de Dados
 ![alt text](https://github.com/instituto-hub/Bootcamp-Ciencia-de-Dados/blob/master/Turma%20%231/Imagens/bootcamp%20ciencia%20de%20dados-01.png)
 
 
+## [Código de Conduta](https://ihub.org.br/)
+
 
 ### Facilitador(a)
 
