@@ -28,3 +28,5 @@ https://www.ibge.gov.br/estatisticas/economicas/comercio/9016-estatisticas-do-ca
 [Luana Calzavara](https://github.com/LuaCalzavara)
 
 [Nikiforos Philyppis](https://github.com/NikiforosPhilyppis)
+ 
+ Arthur Reis
