@@ -1,4 +1,4 @@
-# Projeto: Análise de dados de saúde
+# Projeto: Análise de saúde mental no ambiente de trabalho
 
 
 # Integrantes
@@ -30,3 +30,4 @@ Prever o impacto que uma doença mental influencia na produtividade de um trabal
 
 ## ODS usada
 * 3 - Saúde e bem estar
+* 8 - Trabalho decente e crescimento econômico
