@@ -13,3 +13,15 @@ Utilização de ferramentas computacionais de datascience para analisar a partic
 * Verificar se a proporção de homens e mulheres candidatos é a mesma proporção dos eleitos.
 * Verificar o quanto as despesas nas campanha influencia no sucesso da candidatura.
 * Verificar o quanto a correlação entre as variáveis cor, sexo, grau de instrução, estado civil, idade influencia no sucesso da candidatura.
+
+
+
+## Integrantes
+
+[Leonnardo Pereira](https://github.com/leonnardoo)
+
+[Levi Cirqueira](https://github.com/lcirqueirajr)
+
+[Luana Calzavara](https://github.com/LuaCalzavara)
+
+[Marco Alencastro](https://github.com/Marco87)
