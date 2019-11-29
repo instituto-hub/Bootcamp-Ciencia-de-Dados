@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from fastai_utils import add_datepart, train_cats, proc_df
 import os
+from sklearn.model_selection import train_test_split
 import math
 from sklearn.ensemble import RandomForestRegressor
 
@@ -38,16 +39,9 @@ df_raw = add_datepart(df_raw, 'saledate')
 
 train_cats(df_raw)
 
-os.makedirs('tmp', exist_ok=True)
-df_raw.to_feather('tmp/bulldozers-raw')
-
 df, y, nas = proc_df(df_raw, 'SalePrice')
 
-n_valid = 12000  # same as Kaggle's test set size
-n_trn = len(df)-n_valid
-raw_train, raw_valid = split_vals(df_raw, n_trn)
-X_train, X_valid = split_vals(df, n_trn)
-y_train, y_valid = split_vals(y, n_trn)
+X_train, X_valid, y_train, y_valid = train_test_split(df, y, test_size=0.33, random_state=42)
 
 m = RandomForestRegressor(n_estimators=40, min_samples_leaf=3, max_features=0.5, n_jobs=-1, oob_score=True)
 
