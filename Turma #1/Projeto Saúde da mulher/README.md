@@ -28,6 +28,6 @@ Prever o impacto que uma doença mental influencia na produtividade de um trabal
 3. Apoio: ter apoio direto da empresa, como programas de saúde mental e licenças médicas, ajudam no controle das doenças.
 4. Pessoal: características da vida da pessoal, como hereditariedade e gênero, influenciam no quanto a doença impacta na produtividade.
 
-## ODS usada
+## ODS usadas
 * 3 - Saúde e bem estar
 * 8 - Trabalho decente e crescimento econômico
