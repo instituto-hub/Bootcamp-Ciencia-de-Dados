@@ -1,15 +1,5 @@
 # Projeto: Análise de saúde mental no ambiente de trabalho
 
-
-# Integrantes
-
-[Adriele Celina]()
-
-[Samantha Reis]()
-
-[Marcelo Leobons]()
-
-
 ## Descrição do projeto
 * Analisar o impacto de uma doença mental na produtividade de um trabalhador, com recorte de gênero
 
@@ -31,3 +21,12 @@ Prever o impacto que uma doença mental influencia na produtividade de um trabal
 ## ODS usadas
 * 3 - Saúde e bem estar
 * 8 - Trabalho decente e crescimento econômico
+
+
+# Integrantes
+
+[Adriele Celina](https://github.com/adrieleribeiro)
+
+[Samantha Reis](https://github.com/SamanthaReiis)
+
+[Marcelo Leobons](https://github.com/MMaestrelliLeobons)
