@@ -4,7 +4,7 @@ Esse é o repositório dos projetos desenvolvidos durante o Bootcamp. Ocorreu en
 
 Gostaria de realizar, financiar ou saber mais sobre o Bootcamp Ciência de Dados? Entre em contato pelo email contato@ihub.org.br ou pelo site www.ihub.org.br .
 
-![alt text]()
+![alt text](https://github.com/instituto-hub/Bootcamp-Ciencia-de-Dados/blob/master/Turma%20%232/Imagens/bootcamp%20ciencia%20de%20dados-04.png)
 
 
 ## [Código de Conduta](https://github.com/instituto-hub/Codigo-de-Conduta)
