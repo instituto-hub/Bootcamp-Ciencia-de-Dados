@@ -1,4 +1,4 @@
-# Projeto: Bootcamp DataScience iHub - Produção agrária
+# Projeto: Produção agrária
 
 ## Descrição do projeto
 
@@ -26,15 +26,15 @@ Se existe correlação entre o crescimento da produção ao longo de uma série 
 ## ODS usadas
 
 8 - Emprego digno e crescimento econômico
-15 - Vida sobre a terra
+
 
 
 # Integrantes
 
-(Bernardo Marques)
+[Bernardo Marques](https://github.com/bernardo0marques)
 
-(Bruna Duarte)
+[Bruna Duarte](https://github.com/brunaduarte10)
 
-(Caroline Ribeiro)
+[Caroline Ribeiro](https://github.com/carolmelri)
 
-(Paloma Porfirio)
+[Paloma Porfirio](https://github.com/palomaporfirio)
