@@ -26,15 +26,15 @@ Se existe correlação entre o crescimento da produção ao longo de uma série 
 ## ODS usadas
 
 8 - Emprego digno e crescimento econômico
-
+15 - Vida sobre a terra
 
 
 # Integrantes
 
-[Nome](Bernardo Marques)
+(Bernardo Marques)
 
-[Nome](Bruna Duarte)
+(Bruna Duarte)
 
-[Nome](Caroline Ribeiro)
+(Caroline Ribeiro)
 
-[Nome](Paloma Porfirio)
+(Paloma Porfirio)
