@@ -20,13 +20,13 @@ ODS10 - Redução das desigualdades
 
 # Integrantes
 
-[Nome](Pedro Paixão Borges)
+[Pedro Paixão Borges](https://github.com/pedropaixaob)
 
-[Nome](Vinícius Natan Souza)
+[Vinícius Natan Souza](https://github.com/viniciusnatanss)
 
-[Nome](Jansen Pires)
+[Jansen Pires](https://github.com/JansenInline)
 
-[Nome](Isabella Victorino)
+[Isabella Victorino](https://github.com/victorinobella)
 
-[Nome](Larissa de Moura)
+[Larissa de Moura](https://github.com/larissa-de-moura)
 
